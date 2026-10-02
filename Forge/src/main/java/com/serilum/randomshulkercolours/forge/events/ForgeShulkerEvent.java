@@ -1,6 +1,6 @@
-package com.natamus.randomshulkercolours.forge.events;
+package com.serilum.randomshulkercolours.forge.events;
 
-import com.natamus.randomshulkercolours.events.ShulkerEvent;
+import com.serilum.randomshulkercolours.events.ShulkerEvent;
 import net.minecraftforge.event.entity.EntityJoinLevelEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 

@@ -1,6 +1,6 @@
-package com.natamus.randomshulkercolours.util;
+package com.serilum.randomshulkercolours.util;
 
-import com.natamus.randomshulkercolours.config.ConfigHandler;
+import com.serilum.randomshulkercolours.config.ConfigHandler;
 import net.minecraft.world.item.DyeColor;
 
 import java.util.ArrayList;

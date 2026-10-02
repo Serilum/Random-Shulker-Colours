@@ -1,7 +1,7 @@
-package com.natamus.randomshulkercolours.fabric.config;
+package com.serilum.randomshulkercolours.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.randomshulkercolours.util.Reference;
+import com.serilum.randomshulkercolours.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

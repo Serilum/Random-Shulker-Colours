@@ -1,7 +1,7 @@
-package com.natamus.randomshulkercolours.config;
+package com.serilum.randomshulkercolours.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.randomshulkercolours.util.Reference;
+import com.serilum.randomshulkercolours.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

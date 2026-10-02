@@ -1,10 +1,10 @@
-package com.natamus.randomshulkercolours;
+package com.serilum.randomshulkercolours;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.randomshulkercolours.forge.config.IntegrateForgeConfig;
-import com.natamus.randomshulkercolours.forge.events.ForgeShulkerEvent;
-import com.natamus.randomshulkercolours.util.Reference;
+import com.serilum.randomshulkercolours.forge.config.IntegrateForgeConfig;
+import com.serilum.randomshulkercolours.forge.events.ForgeShulkerEvent;
+import com.serilum.randomshulkercolours.util.Reference;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
@@ -32,7 +32,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	MinecraftForge.EVENT_BUS.register(ForgeShulkerEvent.class);
+		MinecraftForge.EVENT_BUS.register(ForgeShulkerEvent.class);
 	}
 
 	private static void setGlobalConstants() {

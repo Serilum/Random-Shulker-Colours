@@ -1,9 +1,9 @@
-package com.natamus.randomshulkercolours;
+package com.serilum.randomshulkercolours;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.randomshulkercolours.events.ShulkerEvent;
-import com.natamus.randomshulkercolours.util.Reference;
+import com.serilum.randomshulkercolours.events.ShulkerEvent;
+import com.serilum.randomshulkercolours.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerEntityEvents;
 import net.minecraft.server.level.ServerLevel;

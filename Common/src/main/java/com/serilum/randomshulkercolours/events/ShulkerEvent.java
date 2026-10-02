@@ -1,8 +1,8 @@
-package com.natamus.randomshulkercolours.events;
+package com.serilum.randomshulkercolours.events;
 
 import com.natamus.collective.data.GlobalVariables;
-import com.natamus.randomshulkercolours.util.Reference;
-import com.natamus.randomshulkercolours.util.Util;
+import com.serilum.randomshulkercolours.util.Reference;
+import com.serilum.randomshulkercolours.util.Util;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.monster.Shulker;
 import net.minecraft.world.item.DyeColor;

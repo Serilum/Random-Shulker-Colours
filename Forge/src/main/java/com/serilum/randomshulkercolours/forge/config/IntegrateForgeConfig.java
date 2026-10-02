@@ -1,7 +1,7 @@
-package com.natamus.randomshulkercolours.forge.config;
+package com.serilum.randomshulkercolours.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.randomshulkercolours.util.Reference;
+import com.serilum.randomshulkercolours.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
